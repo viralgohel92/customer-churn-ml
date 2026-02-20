@@ -60,3 +60,21 @@ The model is optimized for **business retention impact**, not just statistical a
 ---
 
 ## Project Structure
+
+customer-churn-ml/
+│
+├── data/
+│   └── telco_churn.csv
+│
+├── model/
+│   └── churn_model.pkl
+│
+├── notebook/
+│   └── churn_analysis.ipynb
+│
+├── src/
+│   └── test_model.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
