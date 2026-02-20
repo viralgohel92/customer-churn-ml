@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+.virtual_documents/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model artifacts (optional — keep if model large)
+# *.pkl
+
+# Dataset copies
+*.zip
+*.rar
+
+# Matplotlib
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Pytest
+.pytest_cache/
+
+# Mac system files
+.AppleDouble
+.LSOverride
