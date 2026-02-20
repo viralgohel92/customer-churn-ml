@@ -61,6 +61,7 @@ The model is optimized for **business retention impact**, not just statistical a
 
 ## Project Structure
 
+```
 customer-churn-ml/
 │
 ├── data/
@@ -78,3 +79,4 @@ customer-churn-ml/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
